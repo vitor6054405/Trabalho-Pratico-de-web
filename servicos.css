@@ -1,0 +1,105 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E2E2E2;
+}
+
+.cartao{
+    margin-top: 3rem;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 11rem;
+    margin-right: 11rem;
+}
+
+h1{
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    font-size: 4rem;
+    color: #FF7F50;
+    font-family: 'Playfair Display', serif;
+    padding-top: 2.5rem;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card img{
+    max-height: 680px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 3rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+footer{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem white;
+    box-shadow: 0px 4px 4px rgba(0.4, 0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height:300px;
+}
+
+footer img{
+    max-height:120px;
+    margin-top: 1rem;
+}
+
+.navform{
+    font-size: 1.5rem;
+    color:#FF7F50;
+    text-decoration: none;
+}
+
+p{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc{
+    text-align: justify;
+    padding: 100px;
+}
+
+ul{
+    font-size: 2rem;
+    margin-left: 130px;
+    margin-bottom: 4rem;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a{
+    color:#FF7F50;
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 3rem;
+    margin-left: 2rem;
+    margin-bottom: 4rem;
+    text-align: center;
+    color:#ff838f;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link{
+    margin-left: 100px;
+    padding-bottom: 2rem;
+}
